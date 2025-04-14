@@ -1,0 +1,285 @@
+
+
+
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discover Nashik - The Wine Capital of India</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; padding: 20px; background-color: #f4f4f4; }
+        header, footer { background: #333; color: white; padding: 15px; text-align: center; }
+        nav ul { list-style-type: none; padding: 0; }
+        nav ul li { display: inline; margin-right: 15px; }
+        nav ul li a { color: white; text-decoration: none; }
+        section { background: white; padding: 20px; margin-top: 20px; border-radius: 5px; }
+
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+        table, th, td { border: 1px solid black; padding: 10px; text-align: left; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Nashik</h1>
+        <p>The Wine Capital of India</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#attractions">Attractions</a></li>
+                <li><a href="#culture">Culture</a></li>
+                <li><a href="#feedback">Feedback</a></li>
+            </ul>
+        </nav>
+    </header><section id="about">
+    <h2><u>About Nashik</h2></u>
+
+<body background="bgcolor.jpg">
+<p>
+  <b>Nashik</b> is a city in Maharashtra, India, known for its rich history, vibrant culture, and as the center of India's wine industry. It is one of the four locations where the Kumbh Mela is held. It lies in the Western Ghats along the Godavari River and is situated along major road and rail routes at a point about 110 miles (180 km) northeast of Mumbai (Bombay).During the Mughal period it was known as "Gulshanabad", the city of roses. Nashik has mythological, historical, social and cultural importance. The city is situated on the banks of the Godavari River, making it one of the holiest places for Hindus all over the world. According to Hindu mythology, Lord Rama, the King of Ayodhya, made Nashik his abode during his 14 years in exile. At the same place Lord Laxman, by the wish of Lord Rama, cut the nose of "Shurpanakha" and thus this city was named as "Nasik" as the word Nasik means "nose" in Sanskrit. The most important historical significance is that Kumbh Mela is conducted at Nashik once every twelve years, out of 4 places in India. Nashik is the fourth largest city in Maharashtra in terms of population after Mumbai, Pune, and Nagpur.The city is the administrative headquarters of Nasik district. </p>
+   <br>
+     <hr>
+   <b><i><h3 style="color:green;">Local Cuisine<h3></b></i>
+<p style="border:dotted;">Misal Pav, Puran Poli, and the famous Nashik grapes are must-try delicacies.
+
+          <hr>
+    <center><u>Geography</center></u><br>
+ <pre> Nashik lies in the northern part of Maharashtra state,<br>
+ at 584 m (1,916 ft) from the mean sea level, <br>
+which gives it ideal temperature variation, particularly in winters.<br>
+The city's tropical location and high altitude combine to give it a <br>
+relatively mild version of a tropical wet and dry climate.</pre>
+     <hr>
+
+    <h3><center> <u>Population </h3></center></u>
+<p>Nashik city is governed by Municipal Corporation which comes under Nashik Metropolitan Region. Nashik's 2025 population is now estimated at 2,351,140. In 1950, the population of Nashik was 149,255. Nashik has grown by 56,840 in the last year, which represents a 2.48% annual change.These population estimates and projections come from the latest revision of the UN World Urbanization Prospects. These estimates represent the Urban agglomeration of Nashik, which typically includes Nashik's population in addition to adjacent suburban areas.<p>
+
+    <img src="nashikpopulation.jpg" alt="nashik image" width="350" height="350">
+    
+</section>
+
+       <section id="attractions">
+           <h2><u>Top Attractions</h2></u>
+      <ul>
+              <li>Panchavati and Kalaram Temple</li>
+              <li>Sula Vineyards</li>
+              <li>Trimbakeshwar Temple</li>
+              <li>Saptashrungi</li>
+              <li>Anjneri Hills</li>
+              <li>Pandavleni</li>
+     </ul>
+</section>
+
+<table>
+     <table border="4px">
+  <tr>
+      <th>Place</th>
+      <th>Famous For</th>
+   </tr>
+     
+<tr>
+      <td>Sula Vineyards</td>
+      <td>Wine</td>
+ </tr>
+  
+<tr>
+      <td>Trimbakeshwar</td>
+      <td>Jyotrilng</td>
+</tr>
+
+<tr>
+      <td>Anjneri Hills</td>
+      <td>Birth plce of Lord Hanuman</td>
+</tr>
+
+<tr>
+      <td rowspan="2">Pandavleni</td>
+      <td> Pandavleni Caves and</td>
+</tr>
+<tr>
+      <td> Their Architecture</td>
+</tr>
+
+<tr>
+    <td colspan="2">Panchavati and Kalaram temple</td>
+</tr>
+</table>
+
+ <section id="culture">
+        <h2><u>Culture and Festivals</h2></u>
+            <p>Nashik is known for its grand celebrations of festivals like:</p>
+    <ol>
+           <li>Kumbh Mela</li>
+              <li>Rangapanchami(Rahad)</li>
+         <li>Ramnavmi</li>
+    </ol>
+</section>
+
+<section>
+        <b><i><p>1.Kumbh Mela</b></i><br>
+<p>Nashik Trimbakeshwar Simhasta, is a Hindu religious mela held every 12 years in the Nashik District of Maharashtra India. The name of the festival is also transliterated as Sihasta or Singhastha. According Hindu Puranas, Vishnu dropped drops of amrita at four places, while transporting it in a kumbh (pot). These four places, including Nashik, are defined as present-day sites of Kumbh Mela.</p>
+
+<img src="kumbhmela.jpg" alt="kumbhmela image"  align="right" style="border:5px solid black; width:300px; height:200px;">
+             <br>
+<p>According to Hindu mythology, the event commemorates a time when the gods and demons were fighting over a pitcher (Kumbh) of the nectar of immortality. During the battle, a few drops of the nectar spilled onto four places on Earth – Nashik, Allahabad, Haridwar, and Ujjain.The Nashik Kumbh Mela is not just a religious festival but a profoundly spiritual event. Ancient rituals and traditions are performed to cleanse the soul and seek divine blessings. 
+
+The rituals follow strict Vedic guidelines and are performed by saints, devotees, and Akharas (spiritual sects).The Nashik Kumbh Mela is not just a religious event but a spectacular display of faith, culture, and tradition. Whether you are a devotee or a traveler, this event offers a once-in-a-lifetime experience. Nashik’s hosting of the Kumbh Mela provides a unique opportunity for locals and visitors to engage with India’s rich spiritual and cultural heritage, creating lasting memories and strengthening community and faith. 
+
+The festival promotes significant infrastructural development and raises environmental and social awareness, ensuring the region’s more sustainable and harmonious future.</p>
+            <br>
+
+<b><i><p>2.Rangapanchami</b></i><br>
+<p> In Nashik, "Rahaad" refers to a unique tradition of celebrating Rang Panchami, the last day of Holi, by immersing oneself in colored water within temporary pools or "Rahaads". This practice has roots in the Peshwa era and is believed to have originated as a way to conserve water and promote community celebration.
+While Nashik once had 14 such ancient tanks, only a few have been preserved today.</p>
+
+<table>
+ <tr>
+       <th>Sr No.</th>
+       <th>Name</th>
+       <th>Image</th>
+</tr>
+
+<tr>
+       <td>1</td>
+       <td> Triwandha Chowk</td>
+       <td> <img height="85" src="tiwandi chowk.jpg" width="90"></td>
+</tr>
+
+<tr>
+       <td> 2 </td>
+       <td> Shani Chowk </td>
+       <td> <img height="85" src="shani chowk.jpg" width="90"></td>
+</tr>
+
+<tr>
+       <td> 3 </td>
+       <td> Dande Hanuman </td>
+       <td> <img height="85" src="dandehanuman.jpg" width="90"></td>
+</tr>
+
+<tr>
+       <td> 4 </td>
+       <td> Delhi Darwaja </td>
+       <td><img height="85" src="delhi darwaja.jpg" width="90"></td>
+</tr>
+
+<tr>
+       <td> 5 </td>
+       <td> Chhatrapati Shivaji Maharaj Chowk </td>
+       <td> <img height="85" src="shivaji maharajchowk.jpg" width="90"></td>
+
+</tr>
+
+<tr>
+       <td> 6 </td>
+       <td> Old Tambat lane </td>
+       <td> <img height="85" src="tambatlane.jpg" width="90"></td>
+
+</tr>
+
+<tr>
+       <td> 7 </td>
+       <td>Budha Halwai</td>
+       <td> <img height="85" src="budha halwai.jpg" width="90"></td>
+</tr>
+</table>
+<br>
+
+<b><i><p>3.Ramnavmi</b></i>
+<br>
+
+<p>Ram Navami is celebrated with great enthusiasm in Nashik, particularly at the revered Shree Kalaram Temple in Panchavati. The festival, which marks the birth of Lord Rama, sees a large number of devotees visiting the temple and participating in rituals. The highlight of the celebrations is the Ram Rath (chariot) procession, which takes place on Kamda Ekadashi, along with the Garuda Rath procession.As per mythology, Lord Ram had stayed in the region during his 14-year exile.</p>
+<img src="ramnavmi.jpg" alt="ramnavmi image"  style="border:5px solid black; width:300px; height:200px;">
+</section>
+
+<section>
+<h2 style="background-color: PaleTurquoise" ><p style="border:dashed;"><i>Victoria Pool-The historical identity of Nashik</h2></i>
+
+<p>The historical identity of Nashik city is the British-era Victoria Bridge, which is now the Ahilyadevi Holkar Bridge. Although there are about a dozen bridges across the Godavari within the Nashik Municipal Corporation limits today, at one time it was a big effort to cross the river. Seeing this need, then administrative officer of the corporation, Kashinath Mahadev alias Raosaheb Thatte, urged the British government. However, they first asked Thatte to deposit 25 thousand rupees from the public levy into the government treasury This bridge has completed 127 years this year and it is still standing in the same glory. It was inaugurated by the Governor of Mumbai on 14 January 1895. After the bridge work was completed in 2 years,the bridgewas truly connected with Panchavati in Nashik. Interestingly, after the construction of the bridge, it continued to operate for 50 years. Since this was the only way to reach Panchavati from the city, traffic on the Mumbai-Agra highway continued for 55 years until the construction of the Kannamwar bridge. Later, after the establishment of the Nashik Municipal Corporation, in 1993, the Ahilyadevi Holkar bridge was constructed parallel to this bridge.Even today, the work of connecting Nashik and Panchavati is being done continuously.<p>  
+   <b>Address:</b>
+       <address>
+            Victoria Pool,<br>
+               Ganga River,<br>
+         Panchavati,<br>
+      Nashik-3<br>
+</address>
+
+<div style="text-align:center;">
+<img src="victoria.jpg" align="center"alt="victoria pool image" width:200; height:200;">
+</div>
+
+</section>
+
+<section>
+<h2><strike>Ancient forts </h2></strike>
+<p>&#128507;</p>
+
+<h4>1.Harihar Fort</h4>
+Harihar fort / Harshagad is a fort located 40 km from Nashik City. It is an important fort in Nashik district, and was constructed to look upon the trade route through Gonda Ghat.The attraction of Harihar fort is the iconic steps to the top of the fort. It is almost 80 degrees vertically inclined. <br>
+<img src="hariharfort.jpg" img border="5" alt="harihar fort image" width="350; height="350">
+
+<h4>2.Ramshej</h4>
+<p> Ramshej Fort is a fort located around 12 km from the Nashik city. It is a marvelous historic structure in the Sahyadri of Nashik amidst mountains. This is a strategic fort with amazing views of the countryside and the history of the region. This fort was erected in the 16th century; it was an essential stronghold for different authorities. Today, it is well known as a trekking point by many adventure freaks and history enthusiasts.<p>
+<img src="ramshejfort.jpg" img border="5" alt="ramshej fort image" width="420; height="420">
+
+<h4>3. Anjaneri</h4>
+<p> Anjaneri, one of the forts in the mountain range of Nasik-Trimbakeshwar. Anjaneri is located 20 km away from Nashik by Trimbak Road.It is situated at 4,264 feet (1,300 m) above sea level. It lies between Nasik and Trimbakeshwar near Godavari river. It is a popular for Digmbar Jain caves. Temples and trekking spot, especially in the rainy season. This fort is not only famous for its scenic beauty but also holds great religious significance as the birthplace of Lord Hanuman.</p>
+<img src="anjanerif.jpg" img border="5" alt="anjaneri fort image" width="300; height="300">
+
+<h4> 4.Pandavleni Caves </h4>
+<p> Pandavleni, also known as Tirthankar Leni, Panch Pandav or Pandav Leni Jain cave, is ancient rock-cut sculptures complex located at Gomai River around 8 km south of the centre of Nashik. These caves were excavated by Jain saints 2,000 years ago. This cave is an important part of the ancient rock-cut cave complex. The Pandavleni is another name suggested by scholars derived from Pandavas.</p>
+
+<img src="pandavleni.jpg" img border="5" alt="pandavleni caves image" width="360; height="360">
+</section>
+
+<section>
+<h2><i>Rivers in Nashik</h2></i>
+<style> 
+a {
+font-size:18px;
+text-decoration:none;
+margin:10px;
+}
+a:link {
+color: blue;
+}
+a:vistited {
+color:purple;
+}
+a:hover
+color:red;
+text-decoration:underline;
+}
+a:active {
+color:green;
+}
+</style>
+<p>Visit this website:</p>
+<a href=" https://tanaya621.github.io/nashikcity-website/">Rivers </a>
+</section>
+
+
+<iframe src="https://en.m.wikipedia.org/wiki/Nashik"  height="370" width="812"></iframe>
+
+
+<section id="feedback">
+    <h2>Feedback</h2>
+    <form>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required><br><br>
+        <label for="message">Feedback</label><br>
+        <textarea id="feedback" name="feedback" rows="4" cols="50" required></textarea><br><br>
+        <input type="submit" value="Send">
+    </form>
+
+<p>Email: <br>1.<a href="mailto: tanayaspawar008@gmail.com">Send Email</a></p>
+ <p> 2.<a href="mailto: bhagyashrirane2212@gmail.com">Send Email</a></p>
+</section>
+
+<footer>
+    <p>Thank You</p>
+</footer>
+
+</body>
+</html>
